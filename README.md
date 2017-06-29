@@ -84,6 +84,40 @@ Simplemente se define como.
 
 Al crear una meta y objetivos medibles, podemos garantizar el exito o fracaso de los objetivos al final del año ( por ejemplo. )
 
-****
 ## Criterios de Éxito
+
+En primera lugar, son diferentes de los OKRs. Se utilizan más para las campañas que se van a realizar. Generalmente el uso de criterios ayuda a una marca o empresa a obtener mejores resultados en menos tiempo.
+
+Notas extras.
+
+
+
+## Mercado
+
+
+
+## Competencia
+
+
+
+## Empresa
+
+
+
+## Website
+
+
+
+## Redes Sociales
+
+
+
+## **Creación Audiencia [Extra]**
+
+
+
+
+----------
+
+Quieres más contenido de esta guía. Simplemente comenta o pídeme que quieres que añada a la guía, si quieres guías nuevas o de otra temática pídemelas en mi cuenta de github ( Mask7OfDragon ) o en mi cuenta de facebook como ( TeAmoM.MiAmorEterno ) Gracias por ver mi Guía ❤️ 
 
