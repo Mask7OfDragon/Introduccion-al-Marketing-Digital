@@ -102,15 +102,46 @@ Es importante saber qué estamos midiendo y escoger un criterio de éxito que no
 
 ## Mercado
 
+Comprender el mercado al que vamos a apuntar es básico para saber cómo podemos llegar a ella de manera efectiva. Para tener una idea principalmente tenemos que entender el mercado, podemos ver si el mercado tiene potencial y cuanta competencia hay en la misma. La compotencia y el mercado estan directamente relacionados, al tener un mercado grande con alta competencia requieres mas inversión. 
+
+Notas extras.
+
+El mercado es comprender la competencia y la tasa de aceptacion que podras tener en tu negocio.
+
+el mercado y la competencia son claves para entender la tasa de un sector, que podemos obtener de un producto o negocio como tambien que tan rentable sera la oferta de publicidad en la misma.
 
 
 ## Competencia
 
+La competencia, es basicamente entender y aceptar que la misiones y objetivos de otras empresas, pueden ser los nuestros por lo cual es recomendable que antes de iniciar un producto o un negocio, veas la tasa de mercado que tienes en frente y del cual sera mas rentable o menos el ingreso al mismo.
 
+Herramientas como similarweb, son realmente útiles para ver tu competencia.
+
+Notas extras.
+
+Tu competencia en Internet NO son las personas que hacen exactamente lo mismo que tú.
+
+El uso incorrecto de palabras claves, puede ponerte en otro mercado totalmente diferente, donde la tasa del mismo sea mucho menor que el otro.
+
+Competencia se refiere a toda aquellas empresas tanto publica como privada que cubre tu misma necesidad, o resuelve el mismo problema en que estas enfocado
 
 ## Empresa
 
+lo mas importante generalmente de una empresa, es la marca. Tanto su logo, como relaciones publicas y enlaces de redes sociales son objetivamente mejores que un simple texto, mantener contectado a tus clientes puede ser. Util y demasiado rentable para una marca por el principal uso de redes sociales como Facebook, Twitter para anunciar nuevos productos que seguramente tus seguidores le puedan interesar.
 
+Para crear una buena empresa o marca, solo requieres tres pasos simples (1) Pagina web, (2) Pagina de Facebook, (3) Un buen logo y nombre facil. Tambien puedes añadir sitios como Twitter, instagram entre otros. Lo importante de tu marca, es que un usuario pueda distinguir tus colores de los otros.
+
+algunas herramientas útiles son Naminum, tambien puedes usar un sistema en datos. Buscar en las herramientas de google las busquedas mas comunes y crear un juego de palabra con ello. Algunos nombres que pude sacar fueron. (1) animejan, (2) atolsand, (3) sigmamit. Como nombre de empresas no son muy buenos, pero para tus proyectos como productos o simplemente para identificar un desarrollo puede ser bastante buenos.
+
+Ahora, yo no lo uso para dar un nombre a la marca, los uso para darme un poco mas de feedback y entender un poco mas del mismo. ejemplo animejan puedo cambiarlo a janynime
+
+Notas extras.
+
+Si tu logo es amarillo, intenta que la gente te conozca por el amarillo.
+
+Si compras un logo de $50 dólares, vas a tener una empresa de $50 dólares.
+
+Por ultimo, tu marca no es solo un logo, es la experiencia que añades a tu empresa como valor añadido para que tu cliente la incorpore en su vida diaria.
 
 ## Website
 
