@@ -139,16 +139,33 @@ Notas extras.
 
 Si tu logo es amarillo, intenta que la gente te conozca por el amarillo.
 
-Si compras un logo de $50 dólares, vas a tener una empresa de $50 dólares.
+Si compras un logo de $50 dólares, vas a tener una empresa de $50 dólares. Esto es cierto y falso, depende mucho del contexto. Yo personalmente he tenido logos por $ 10 que son mejores que otros de $ 1.000
 
 Por ultimo, tu marca no es solo un logo, es la experiencia que añades a tu empresa como valor añadido para que tu cliente la incorpore en su vida diaria.
 
 ## Website
 
+Montar un website es muy fácil. Lo primero que debemos tener es un dominio, para esto podemos usar herramientas como Namecheap.
 
+Te recomiendo, principalmente un hosting compartido ( no te preocupes, si no lo entiendes. Simplemente confia en mi. ). Tambien te recomiendo usar Wordpress + Divi, si no eres un desarrollador lograras un sitio hermoso ( de verdad muy lindo ) con poco conocimiento o cero conocimiento de programacion. Tambien puedes usar sitios como 1&1, donde es muy facil crear cualquier cosa.
+
+Algunas herramientas son Namecheap, 1&1, Wordpress, 
+
+Notas extras.
+
+Si apenas inicias tu marca. Te recomiendo wordpress o cualquier gestor de contenido, son realmente recomendables dado su facil uso y su alta capacidad de obtener trafico organico. Si tienes un poco mas de conocimiento sobre el tema. Te recomiendo Material design + Django ( Python ) y puedes crear un Blog o sitio web sencillo, sin tener muchos conocimientos de programacion.
 
 ## Redes Sociales
 
+Las redes sociales son un gran y principal objetivo a la hora de crear una marca o empresa. Nos dan seguidores, interacciones con nuestros clientes. La plataforma de Facebook para paginas es demasiado potente, puedes incluir respuestas automaticas, si sabes de programacion puedes crear tu bot. Para responder preguntas basicas de la misma. Tambien tienes la opcion de implementar los pagos atraves de la plataforma de facebook algo realmente genial.
+
+para crear una página en Facebook solo debemos ir a la opción Créate Page y allí vamos a poder decidir qué tipo de página queremos tener. Dentro de la configuración de nuestra página, debemos incluir un nombre y una imagen, añadido como url´s de tu sitio web son importantes, también podemos incluir información sobre la marca.
+
+Notas extras.
+
+Crear una pagina de facebook, puede traer a personas con el gusto de sus amigos.
+
+El añadido de una red social como interacciones para tu marca resulta demasiado rentable, ya que generalmente el trafico de una red social ( en este caso Facebook ) se mueve tambien por conocidos y amigos, si la gente le da a seguir a tu pagina, es muy probable que otras personas tambien lo hagan.
 
 
 ## Creación Audiencia [**Extra**]
@@ -157,7 +174,7 @@ Por ultimo, tu marca no es solo un logo, es la experiencia que añades a tu empr
 
 **Contenido y agradecimiento**
  
-Felicidades. Al finalizar esta guía, entendiste los principios basicos del marketing, leíste un total de [**700**] palabras y viste un total de [**4.000**] caracteres. Es un principio la guía fue principalmente creada para gente que quiera aprender lo básico del marketing, generalmente programadores para que puedan vender mas fácilmente sus productos y entiendan las bases del marketing digital y sus utilidades.
+Felicidades. Al finalizar esta guía, entendiste los principios basicos del marketing, leíste un total de [**1.700**] palabras y viste un total de [**10.000**] caracteres. Es un principio la guía fue principalmente creada para gente que quiera aprender lo básico del marketing, generalmente programadores para que puedan vender mas fácilmente sus productos y entiendan las bases del marketing digital y sus utilidades.
  
 
 
