@@ -88,8 +88,16 @@ Al crear una meta y objetivos medibles, podemos garantizar el exito o fracaso de
 
 En primera lugar, son diferentes de los OKRs. Se utilizan más para las campañas que se van a realizar. Generalmente el uso de criterios ayuda a una marca o empresa a obtener mejores resultados en menos tiempo.
 
+Los criterios, son sumamente importantes, para el exito. Nos muestran que vamos por buen camino y cuando no. Algunos ejemplos son (1) Tener más leads, (2) Referidos, (3) Suscriptores, (4) Ventas entre otras. La importancia de los criterios son, no conseguir el mejor beneficio si no el mejor atractico a la marca o empresa. No hay estandares para los criterios solo bases muy pequeñas.
+
 Notas extras.
 
+Es importante saber qué estamos midiendo y escoger un criterio de éxito que nos demuestre si vamos por buen camino.
+
+
+[ ] **Criterios:** Dar a conocer la marca.
+  - Conseguir 80 lectores en nuestro blog
+  - Conseguir 20 Interacciones en facebook.
 
 
 ## Mercado
