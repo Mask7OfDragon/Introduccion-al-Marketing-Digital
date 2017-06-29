@@ -120,9 +120,14 @@ Es importante saber qué estamos midiendo y escoger un criterio de éxito que no
 
 
 
-## **Creación Audiencia [Extra]**
+## Creación Audiencia [**Extra**]
+****
 
 
+**Contenido y agradecimiento**
+ 
+Felicidades. Al finalizar esta guía, entendiste los principios basicos del marketing, leíste un total de [**700**] palabras y viste un total de [**4.000**] caracteres. Es un principio la guía fue principalmente creada para gente que quiera aprender lo básico del marketing, generalmente programadores para que puedan vender mas fácilmente sus productos y entiendan las bases del marketing digital y sus utilidades.
+ 
 
 
 ----------
